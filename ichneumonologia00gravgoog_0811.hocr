@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ichneumonologia00gravgoog_0811.png"; bbox 0 0 760 1623; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 313 185 702 296">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 313 185 702 236">
+     <span class='ocr_line' id='line_1_1' title="bbox 313 185 702 205; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 313 186 394 200; x_wconf 76' lang='lat' dir='ltr'>mmm-e</span> <span class='ocrx_word' id='word_1_2' title='bbox 408 186 428 199; x_wconf 77' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_3' title='bbox 439 185 531 205; x_wconf 74' lang='lat' dir='ltr'><strong>ngnmore</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 545 185 601 205; x_wconf 74' lang='lat' dir='ltr'>quum</span> <span class='ocrx_word' id='word_1_5' title='bbox 615 185 636 198; x_wconf 83' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_6' title='bbox 646 185 702 205; x_wconf 67' lang='grc' dir='ltr'>ωερε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 313 208 702 236; baseline 0 -8"><span class='ocrx_word' id='word_1_7' title='bbox 313 216 377 236; x_wconf 74' lang='lat' dir='ltr'>prem</span> <span class='ocrx_word' id='word_1_8' title='bbox 391 208 516 236; x_wconf 56' lang='lat' dir='ltr'>fflndiiformi,</span> <span class='ocrx_word' id='word_1_9' title='bbox 533 209 588 235; x_wconf 77' lang='lat' dir='ltr'>npice</span> <span class='ocrx_word' id='word_1_10' title='bbox 601 209 681 235; x_wconf 82' lang='lat' dir='ltr'>oblique</span> <span class='ocrx_word' id='word_1_11' title='bbox 696 213 702 228; x_wconf 83' lang='grc'>1</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 314 239 702 296">
+     <span class='ocr_line' id='line_1_3' title="bbox 353 239 702 265; baseline 0 -6"><span class='ocrx_word' id='word_1_12' title='bbox 353 239 433 259; x_wconf 72' lang='lat' dir='ltr'>unic-m</span> <span class='ocrx_word' id='word_1_13' title='bbox 447 239 490 265; x_wconf 78' lang='lat' dir='ltr'>cepi</span> <span class='ocrx_word' id='word_1_14' title='bbox 503 239 602 262; x_wconf 76' lang='lat' dir='ltr'>femin-m,</span> <span class='ocrx_word' id='word_1_15' title='bbox 619 240 702 259; x_wconf 76' lang='lat' dir='ltr'>meme]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 314 269 594 296; baseline 0 -7"><span class='ocrx_word' id='word_1_16' title='bbox 314 269 366 289; x_wconf 76' lang='lat' dir='ltr'>mine</span> <span class='ocrx_word' id='word_1_17' title='bbox 373 276 435 296; x_wconf 72' lang='lat' dir='ltr'>prope</span> <span class='ocrx_word' id='word_1_18' title='bbox 447 269 469 290; x_wconf 87' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 467 270 594 289; x_wconf 72' lang='lat' dir='ltr'>ratislaviam.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

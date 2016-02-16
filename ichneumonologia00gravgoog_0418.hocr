@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ichneumonologia00gravgoog_0418.png"; bbox 0 0 2564 5078; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 244 2228 695 2323">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 244 2228 695 2323">
+     <span class='ocr_line' id='line_1_1' title="bbox 244 2228 695 2323; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 244 2228 695 2323; x_wconf 83' lang='lat' dir='ltr'>CRYPTUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 89 2497 1000 2739">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 89 2497 1000 2739">
+     <span class='ocr_line' id='line_1_2' title="bbox 89 2497 999 2604; baseline 0.002 -31"><span class='ocrx_word' id='word_1_2' title='bbox 89 2497 221 2574; x_wconf 45' lang='lat' dir='ltr'><strong>{omine</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 258 2500 444 2602; x_wconf 78' lang='lat' dir='ltr'><strong>petiolato</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 484 2526 672 2589; x_wconf 82' lang='lat' dir='ltr'>convexo;</span> <span class='ocrx_word' id='word_1_5' title='bbox 713 2502 841 2604; x_wconf 48' lang='lat' dir='ltr'>capi„</span> <span class='ocrx_word' id='word_1_6' title='bbox 878 2516 999 2576; x_wconf 70' lang='lat' dir='ltr'><strong>truns-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 95 2634 1000 2739; baseline 0 -27"><span class='ocrx_word' id='word_1_7' title='bbox 95 2636 260 2713; x_wconf 74' lang='lat' dir='ltr'>scutello</span> <span class='ocrx_word' id='word_1_8' title='bbox 292 2637 409 2739; x_wconf 81' lang='lat' dir='ltr'><strong>plano</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 437 2653 503 2713; x_wconf 77' lang='lat' dir='ltr'><strong>aut</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 529 2663 718 2728; x_wconf 77' lang='lat' dir='ltr'>conve103</span> <span class='ocrx_word' id='word_1_11' title='bbox 753 2634 908 2737; x_wconf 78' lang='lat' dir='ltr'>(aculeo</span> <span class='ocrx_word' id='word_1_12' title='bbox 934 2661 1000 2712; x_wconf 85' lang='lat' dir='ltr'><strong>ex·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1286 5078">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1286 5078">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1286 5078; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1286 5078; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
